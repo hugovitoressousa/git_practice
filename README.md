@@ -1,4 +1,4 @@
-Guia Git
+modificación mala Guia Git
 Añade pero no sobreescribe
 IWRWIBWEIB
 Nueva version
